@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Homework Internet + Json"
+rootProject.name = "FileManager"
 include ':app'

@@ -1,13 +1,10 @@
-#Wed Feb 15 03:03:04 ICT 2023
-path.3=1/classes.dex
-path.2=3/classes.dex
+#Tue Feb 21 21:13:49 ICT 2023
+base.2=D\:\\FileManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+path.2=12/classes.dex
+base.1=D\:\\FileManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 path.1=0/classes.dex
-path.0=classes.dex
-base.3=G\:\\HomeworkInternetJson\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.2=G\:\\HomeworkInternetJson\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
-base.1=G\:\\HomeworkInternetJson\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.0=G\:\\HomeworkInternetJson\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-renamed.3=classes4.dex
+base.0=D\:\\FileManager\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
+path.0=classes.dex

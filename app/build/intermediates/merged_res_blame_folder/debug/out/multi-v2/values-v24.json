@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.homeworkinternetjson.app-mergeDebugResources-28:/values-v24/values-v24.xml",
+            "outputFile": "D:\\FileManager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "G:\\GmailAppLocal-master\\caches\\transforms-3\\034f511a629c0fda711794a09fef4382\\transformed\\appcompat-1.5.1\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\1748aac731fa07128a54e1c1d040e4c8\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "G:\\GmailAppLocal-master\\caches\\transforms-3\\459731560744495d36c7572f4eaf1462\\transformed\\material-1.7.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\1cfae0dd4773b33d8d581d753ad31573\\transformed\\material-1.8.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
